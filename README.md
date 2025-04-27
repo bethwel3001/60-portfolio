@@ -40,7 +40,7 @@ portfolio/
 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/bethwel3001/60-portfolio.git
 cd portfolio
 ```
 2. Open in browser.
@@ -64,4 +64,5 @@ start index.html
 
 ## License
 **MIT** License - See LICENSE file for details.
-*Developed with ❤️ by Be Tu*
+
+- *Developed with ❤️ by Be Tu*
