@@ -4,7 +4,7 @@
 
 A modern portfolio website with dark mode, smooth animations, and mobile-first responsiveness.
 
-## Features
+## Features 
 
 - 🌓 **Dark/Light Mode Toggle**
 - 📱 **Mobile-Optimized Navigation**
